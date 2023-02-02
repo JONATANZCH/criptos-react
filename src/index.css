@@ -1,0 +1,8 @@
+body {
+  min-height: 100vh;
+  background-image:url(/src/img/planet.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center ;
+}
+/* #0D2235 */
