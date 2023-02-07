@@ -24,7 +24,7 @@ const InputSubmit = styled.input`
     width: max-content;
     &:hover {
         transition: 3000ms;
-        padding: 10px 170px;
+        padding: 10px 110px;
         transform: translateY(-0px);
         background-color: #dddddd;
         color: #d60101;
